@@ -1,0 +1,7 @@
+sub @r1, @r4
+bne END
+prn -6
+bne         POOP
+sergey
+Raz The man
+bread
